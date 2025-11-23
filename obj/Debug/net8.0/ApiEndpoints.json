@@ -1,0 +1,89 @@
+[
+  {
+    "ContainingType": "CinemaPipocando.Routes.FilmeRoute\u002B\u003C\u003Ec",
+    "Method": "\u003CFilmeRoutes\u003Eb__0_0",
+    "RelativePath": "filmes/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CinemaPipocando.Requests.FilmeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CinemaPipocando.Routes.FilmeRoute\u002B\u003C\u003Ec",
+    "Method": "\u003CFilmeRoutes\u003Eb__0_1",
+    "RelativePath": "filmes/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CinemaPipocando.Routes.FilmeRoute\u002B\u003C\u003Ec",
+    "Method": "\u003CFilmeRoutes\u003Eb__0_2",
+    "RelativePath": "filmes/{id:guid}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "req",
+        "Type": "CinemaPipocando.Requests.FilmeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CinemaPipocando.Routes.FilmeRoute\u002B\u003C\u003Ec",
+    "Method": "\u003CFilmeRoutes\u003Eb__0_3",
+    "RelativePath": "filmes/{id:guid}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
