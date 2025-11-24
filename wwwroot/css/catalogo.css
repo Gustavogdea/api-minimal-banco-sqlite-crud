@@ -1,0 +1,29 @@
+.titulo-catalogo{
+    text-align: center;
+    font-size:xx-large;
+}
+
+.sect-filmes{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+
+.container-filme{
+    background-color: black;
+    width: max-content;
+    padding: 5px;
+    margin-right: 20px;
+}
+
+.container-filme:hover{
+    scale: 1.1;
+    transition: 0.2s;
+}
+
+.componente-legenda-filme{
+    color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+

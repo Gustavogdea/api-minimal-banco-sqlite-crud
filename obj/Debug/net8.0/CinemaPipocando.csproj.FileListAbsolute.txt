@@ -134,3 +134,5 @@ D:\01 - Projetos\CinemaPipocando\obj\Debug\net8.0\refint\CinemaPipocando.dll
 D:\01 - Projetos\CinemaPipocando\obj\Debug\net8.0\CinemaPipocando.pdb
 D:\01 - Projetos\CinemaPipocando\obj\Debug\net8.0\CinemaPipocando.genruntimeconfig.cache
 D:\01 - Projetos\CinemaPipocando\obj\Debug\net8.0\ref\CinemaPipocando.dll
+D:\01 - Projetos\CinemaPipocando\obj\Debug\net8.0\CinemaPipocando.sourcelink.json
+D:\01 - Projetos\CinemaPipocando\bin\Debug\net8.0\CinemaPipocando.staticwebassets.runtime.json

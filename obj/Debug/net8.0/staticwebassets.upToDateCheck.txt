@@ -1,0 +1,9 @@
+wwwroot\.gitignore
+wwwroot\css\catalogo.css
+wwwroot\css\index.css
+wwwroot\css\style.css
+wwwroot\environments\environment.development.js
+wwwroot\environments\environment.js
+wwwroot\index.html
+wwwroot\js\script.js
+wwwroot\pages\catalogo.html

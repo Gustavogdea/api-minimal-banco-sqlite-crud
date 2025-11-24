@@ -1,0 +1,25 @@
+h2{
+    text-align: center;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+}
+
+section form{
+    background-color: rgb(78, 78, 157);
+    padding: 15px;
+    width: max-content;
+    color: white;
+}
+
+#txt_filme{
+    border-radius: 5px;
+    height: 30px;
+}
+
+#btn_filme{
+    border-radius: 4px;
+    height: 30px;
+}
